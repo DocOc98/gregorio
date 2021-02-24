@@ -1,4 +1,4 @@
-Documentation for gregorio and gregoriotex
+Documentation for gregorio and gregoriotex 
 ==========================================
 
 This folder contains the source files of a manual is primarily intended for
